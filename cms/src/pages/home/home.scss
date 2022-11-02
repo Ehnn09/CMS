@@ -1,0 +1,9 @@
+.home {
+  background-color: purple;
+  display: flex;
+
+  .homeContainer {
+    background-color: blue;
+    flex: 3;
+  }
+}
